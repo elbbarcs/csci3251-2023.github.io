@@ -3,7 +3,7 @@ Hello from CUHK CSCI3251! This is another playground for our course students to 
 Here are some teams in our course project who successfully went through all group tasks:
 
 *  [Team X](https://csci3251-2023.github.io/project-team-x/)
-*  
+*  [Team G](https://csci3251-2023.github.io/project-team-g/)
   
 For more details, contact @chuckjee regarding course issues.
 
